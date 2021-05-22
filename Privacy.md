@@ -19,10 +19,6 @@ Link to privacy policy of third party service providers used by the app
 *   [Firebase Analytics](https://firebase.google.com/policies/analytics)
 *   [Crashlytics](http://try.crashlytics.com/terms/privacy-policy.pdf)
 
-**Log Data**
-
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
-
 **Security**
 
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
