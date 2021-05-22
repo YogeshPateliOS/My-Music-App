@@ -12,7 +12,7 @@ You've two options to contact us: ✌
 #### Prefers another way?
 
 - If you found a bug, or you have a feature request, or any suggestions or something you don't understand? You can always open an issue [here](https://github.com/YogeshPateliOS/My-Music-App/issues/new) with as much details as possible. 👾
-- If you want to send me a private message, please feel free to write me an [email](mailto:mymusicfback@gmail.com?subject=MyMusic%20app%20-%20Support&body=). 📧
+- If you want to send me a private message, please feel free to write me an [email](mailto:mymusicfback@gmail.com?subject=My%20Music%20app%20-%20Support&body=). 📧
 
 #### Important:
 
